@@ -5,10 +5,13 @@ For example, there are 10 hours between '2000:01:01 00:45:00' and '2000:01:01 10
 Return a list of employee ids and weekend hours worked, descending by hours worked.
 
 #### Schema
+![Screenshot 2023-11-08 095707](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/8ed0e902-2ddf-46b3-be75-908c22857eae)
 
 #### Sample Input
+![Screenshot 2023-11-08 095723](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/700b5fe4-dff2-480c-bf11-220b09ef1830)
 
 #### Sample Output & Explanation
+![Screenshot 2023-11-08 095734](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/452db911-ce26-4c05-a142-1c21546afc8d)
 
 ### Solution
 
