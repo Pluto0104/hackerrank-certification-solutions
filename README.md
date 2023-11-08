@@ -1,4 +1,4 @@
-## hackerrank-role-certification-solutions-javascript
+## hackerrank-role-certification-solutions-using-javascript
 
 This repository contains some solutions for the HackerRank Role certification assessments using JavaScript.
 
