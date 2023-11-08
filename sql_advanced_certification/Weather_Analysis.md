@@ -5,10 +5,13 @@ Write a query that gives month, monthly maximum, monthly minimum, monthly averag
 Note: Round the average to the nearest integer.
 
 #### Schema
+![Screenshot 2023-11-08 110532](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/0534ac53-5fee-4829-9873-4aff30777c9b)
 
 #### Sample Input
+![Screenshot 2023-11-08 110543](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/25dbfdd3-22b0-4d11-82b3-c87e8ea088ce)
 
-#### Sample Output & Explanation
+#### Sample Output
+![Screenshot 2023-11-08 110555](https://github.com/Pluto0104/hackerrank-certification-solutions-using-javascript/assets/136573674/4d953f70-5df5-4e1e-b1e9-ec60125e0dd0)
 
 ### Solution
 
