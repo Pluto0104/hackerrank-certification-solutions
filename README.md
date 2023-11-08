@@ -1,6 +1,6 @@
-## hackerrank-certification-solutions-using-javascript
+## hackerrank-certification-solutions
 
-This repository contains some solutions for the HackerRank certification assessments using JavaScript.
+This repository contains some solutions for the HackerRank certification assessments.
 
 - [Frontend Developer (React)](https://github.com/Pluto0104/hackerrank-role-certification-solutions-using-javascript/tree/main/frontend_developer_react_certification)
 - [Software Engineer](https://github.com/Pluto0104/hackerrank-role-certification-solutions-using-javascript/tree/main/software_engineer_certification)
