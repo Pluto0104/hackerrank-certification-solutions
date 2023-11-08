@@ -2,6 +2,9 @@
 
 Create a Text Append module as shown below:
 
+![Screenshot 2023-11-08 080239](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/b325f08e-df38-40b8-870e-97892a5efb7e)
+
+
 There is a reusable component in the module named TextField:
 
 - It renders a `<label>` and an `<input>` elements.
