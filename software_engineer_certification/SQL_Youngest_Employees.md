@@ -5,15 +5,23 @@ Note: While the secondary sort is by ID, the result includes UIN but not ID.
 
 #### EMPLOYEE table
 
+![Screenshot 2023-11-08 082210](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/6026d60f-5416-48e3-8fd7-f168bbbba84b)
+
 #### EMPLOYEE_UIN table
+
+![Screenshot 2023-11-08 082214](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/8108d0e5-9101-4e4e-b9ed-8c3dd621d025)
 
 #### Sample Data Tables
 
 - Sample Input
 
   - EMPLOYEE
+    
+    ![Screenshot 2023-11-08 082222](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/061d966c-cc0f-4cc9-9daf-fbfbcf52cfca)
 
   - EMPLOYEE_UIN
+    
+    ![Screenshot 2023-11-08 082228](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/0d09595e-bd0f-405b-aed3-adf3e5e63f18)
 
 - Sample Output
 
