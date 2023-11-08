@@ -45,6 +45,9 @@ Input Format For Custom Testing
 
 - Sample Input For Custom Testing
 
+  ![Screenshot 2023-11-08 084042](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/3cb406bb-e39c-4697-87b7-c555d1918b53)
+
+
 - Sample Output
 
   ```
@@ -58,6 +61,9 @@ These elements can be rearranged to become [1, 2, 2, 3], which results in a maxi
 #### ▾ Sample Case 1
 
 - Sample Input For Custom Testing
+
+  ![Screenshot 2023-11-08 084050](https://github.com/Pluto0104/hackerrank-role-certification-solutions-javascript/assets/136573674/22d5c054-7e4a-4772-96e3-35ca73a664fc)
+
 
 - Sample Output
 
