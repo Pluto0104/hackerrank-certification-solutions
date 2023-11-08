@@ -1,0 +1,10 @@
+### CSS: Box Model Statement Selection
+
+Select all the statements that are true with respect to the CSS box model.
+
+Pick ONE OR MORE options
+
+- [ ] The box model consists of the margins, outline, padding, height, and width of the element.
+- [x] The box model consists of the margins, borders, padding, height, and width of the element.
+- [x] The total element width is calculated as the summation of width, left padding, right padding, left border, right border, left margin, and right margin.
+- [ ] The total element width is calculated as the summation of width, left padding, right padding, left outline, right outline, left margin, and right margin.
